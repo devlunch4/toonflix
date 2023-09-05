@@ -21,6 +21,6 @@ samples, guidance on mobile development, and a full API reference.
 
 ## YouTube Link
 [![Toonflix](https://img.youtube.com/vi/NcS8d-UoAXM/mqdefault.jpg)](https://youtu.be/NcS8d-UoAXM?t=0s)<br>
-*This is my project(Toonflix) demonstration video.*<br>
+*This is my project(Toonflix) demonstration video.(Click Image)*<br>
 
 END
