@@ -17,7 +17,8 @@ samples, guidance on mobile development, and a full API reference.
 
 
 ## Online Lecture
-- nomadcoders.co/flutter-for-beginners/lectures/4177
+- https://nomadcoders.co/flutter-for-beginners/lectures/4177
+- https://nomadcoders.co/flutter-for-beginners
 
 ## YouTube Link
 [![Toonflix](https://img.youtube.com/vi/NcS8d-UoAXM/mqdefault.jpg)](https://youtu.be/NcS8d-UoAXM?t=0s)<br>
